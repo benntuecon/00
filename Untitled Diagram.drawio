@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T13:09:00.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="7IAcy4O0R3AlxzurcWb9" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-27T08:01:32.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="H1QGgWkkYajJlJtTiKaZ" version="18.1.1" type="github" pages="2">
   <diagram id="40bhOZi9-pXXShmsCA7p" name="ERD">
     <mxGraphModel dx="1796" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -479,7 +479,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P_DqTs2XUW8u3rVE873k" name="flow chart">
-    <mxGraphModel dx="860" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,7 +528,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WzpEoaeoQgiuHZBvd15y-14" value="&lt;span style=&quot;&quot;&gt;if free order or&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;amount to order less than 1&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="230" width="140" height="120" as="geometry" />
+          <mxGeometry x="980" y="220" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WzpEoaeoQgiuHZBvd15y-18" value="ORDER SUCCESS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1360" y="120" width="120" height="60" as="geometry" />
